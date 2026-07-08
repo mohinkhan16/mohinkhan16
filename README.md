@@ -14,7 +14,9 @@
 <img src="https://img.shields.io/badge/CGPA-8.15%20%7C%20Rank%202-4D96FF?style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+  <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+</p>
 
 ### 🧭 Quick Facts
 
@@ -29,7 +31,9 @@ portfolio: cool-queijadas-6a4ab9.netlify.app
 fun_fact: I once styled the same login page 5 different ways before saying "yeh sahi hai"
 ```
 
----
+<p align="center">
+  <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+</p>
 
 ### 🛠️ Featured Builds
 
@@ -50,7 +54,9 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
   </tr>
 </table>
 
----
+<p align="center">
+  <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+</p>
 
 ### ⚡ Tech Stack
 
@@ -67,7 +73,9 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
 <img src="https://img.shields.io/badge/JWT-6BCB77?style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+  <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+</p>
 
 ### 📊 GitHub Stats
 
@@ -80,7 +88,9 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
 <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohinkhan16&theme=react-dark&hide_border=true&line=6BCB77&point=FFD93D"/>
 </p>
 
----
+<p align="center">
+  <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+</p>
 
 ### 🌐 Let's Connect
 
