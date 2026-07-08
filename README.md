@@ -26,7 +26,7 @@ role: Full Stack Development Student — PGDCA
 location: Ghogha, Gujarat, India 🇮🇳
 stack: MongoDB • Express.js • React.js • Node.js
 training: Red and White Skill Education
-currently_building: Movie search app with a retro-cinema UI 🎬
+currently_building: Food order Backend program 🎬
 portfolio: cool-queijadas-6a4ab9.netlify.app
 fun_fact: I once styled the same login page 5 different ways before saying "yeh sahi hai"
 ```
