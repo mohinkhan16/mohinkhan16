@@ -1,27 +1,171 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🔭 Currently building **Full Stack (MERN) applications**<br>- 🌱 Learning **Backend Development, Authentication (JWT), MongoDB, and REST APIs**<br>- 👯 Open to collaborating on **Web Development Projects**<br>- 🤝 Looking for guidance in **System Design & Deployment**<br>- 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, HTML, CSS, Bootstrap**<br>- ⚡ Fun fact: **I love solving coding problems and continuously improving my development skills.**
+# 🚀 Hi, I'm Mohin Khan
 
+<p align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohinkhan16/) [email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohinpathan2004@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=900&color=00D9FF&lines=Node.js+Developer;JavaScript+Enthusiast;Backend+Developer;Always+Learning+New+Technologies;Open+to+Internships"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mohinkhan16&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mohinkhan16&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohinkhan16&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohinkhan16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohinkhan16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mohinkhan16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 About Me
+
+👋 Hello! I'm **Mohin Khan** from **Gujarat, India**.
+
+I'm a **Backend Developer** who enjoys building secure, scalable, and user-friendly web applications using JavaScript and Node.js.
+
+🎓 Completed **PGDCA**
+
+💡 Passionate about Backend Development
+
+🌱 Currently improving my Node.js, Express.js, MongoDB, and API Development skills.
+
+🎯 Looking for Internship and Entry-Level Backend Developer opportunities.
+
+---
+
+# ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+* 🔹 Backend Development
+* 🔹 REST API Development
+* 🔹 JWT Authentication
+* 🔹 CRUD Applications
+* 🔹 MongoDB Database Design
+* 🔹 Clean Code Practices
+* 🔹 Git & GitHub
+
+---
+
+# 📂 Featured Projects
+
+### 🍽️ Bites Restaurant
+
+Responsive restaurant website built using Bootstrap.
+
+---
+
+### 🌦 Weather Application
+
+Real-time weather application using Weather API.
+
+---
+
+### 🎬 Movie Search App
+
+Movie search application using OMDb API.
+
+---
+
+### 🛒 Grocery Store
+
+Modern grocery shopping interface with JavaScript.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohinkhan16&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=mohinkhan16&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinkhan16&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohinkhan16&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohinkhan16&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mohinpathan2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohinkhan16/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mohinkhan16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mohinkhan16/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Developer Motto
+
+> **"Every line of code is an opportunity to learn something new."**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
