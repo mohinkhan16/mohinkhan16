@@ -1,119 +1,119 @@
-# 👋 Hi, I'm Mohin Khan
+<!-- ===================== MOHIN KHAN — GITHUB PROFILE README ===================== -->
 
-```{=html}
 <p align="center">
-```
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:00C2FF,100:00E676&text=Mohin%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20Developer&descAlignY=62"/>`{=html}
-```{=html}
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&text=Mohin%20Khan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20Building%20real%20things,%20one%20bug%20at%20a%20time&descAlignY=62&descSize=18"/>
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Open+to+Internship+Opportunities"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=mohinkhan16&style=for-the-badge&color=00C2FF"/>`{=html}
-`<img src="https://img.shields.io/github/followers/mohinkhan16?style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
-
-```{=html}
 <p align="center">
-```
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&text=About%20Me&fontSize=28&color=gradient&fontColor=fff"/>`{=html}
-```{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=console.log('Hello%2C+World+%F0%9F%91%8B');;Full+Stack+Developer+(MERN);Turning+coffee+%E2%98%95+into+code;Currently%3A+Debugging+life+and+JS;Open+to+Internship+%2F+Full-Time+Roles"/>
 </p>
-```
-``` yaml
-Name: Mohin Khan
-Location: Gujarat, India
-Education: PGDCA
-Rank: 2
-Focus: MERN Stack
-Looking For: Internship
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mohinkhan16&label=Profile+Views&color=FFD93D&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/mohinkhan16?style=for-the-badge&color=6BCB77"/>
+<img src="https://img.shields.io/badge/CGPA-8.15%20%7C%20Rank%202-4D96FF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&animation=fadeIn"/>
+</p>
+
+### 🧭 Quick Facts
+
+```yaml
+name: Mohin Khan (Pathan Mohinkhan)
+role: Full Stack Development Student — PGDCA
+location: Ghogha, Gujarat, India 🇮🇳
+stack: MongoDB • Express.js • React.js • Node.js
+training: Red and White Skill Education
+currently_building: Movie search app with a retro-cinema UI 🎬
+portfolio: cool-queijadas-6a4ab9.netlify.app
+fun_fact: I once styled the same login page 5 different ways before saying "yeh sahi hai"
 ```
 
--   🚀 Backend & MERN Developer
--   🌱 Learning advanced Node.js
--   💡 Love building real-world projects
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&animation=fadeIn"/>
+</p>
 
-```{=html}
-<p align="center">
-```
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Tech%20Stack&fontSize=28&color=gradient&fontColor=fff"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github,vscode,postman"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Featured%20Projects&fontSize=28&color=gradient&fontColor=fff"/>`{=html}
-```{=html}
-</p>
-```
--   🔐 JWT Authentication
--   🎬 Movie Search App
--   🛒 Grocery Store
--   📅 Event Management
--   ❓ Quiz Application
+### 🛠️ Featured Builds
 
-```{=html}
+<table align="center">
+  <tr>
+    <td width="33%" align="center" bgcolor="#FFF1F1">
+      <img src="https://img.shields.io/badge/🔐_JWT_AUTH-FF6B6B?style=for-the-badge&logoColor=white"/><br/><br/>
+      <b>JWT Authentication System</b><br/>
+      <sub>Secure signup/login flow with token-based auth, protected routes, and session handling.</sub>
+    </td>
+    <td width="33%" align="center" bgcolor="#FFFCE8">
+      <img src="https://img.shields.io/badge/📅_EVENT_MGMT-FFD93D?style=for-the-badge&logoColor=black"/><br/><br/>
+      <b>Event Management System</b><br/>
+      <sub>Full CRUD app to create, manage, and track events end-to-end.</sub>
+    </td>
+    <td width="33%" align="center" bgcolor="#F0FBF1">
+      <img src="https://img.shields.io/badge/🧠_QUIZ_APP-6BCB77?style=for-the-badge&logoColor=white"/><br/><br/>
+      <b>Quiz Application</b><br/>
+      <sub>Interactive quiz app with dynamic scoring and question flow.</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-```
-`<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohinkhan16&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img width="48%" src="https://streak-stats.demolab.com?user=mohinkhan16&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&animation=fadeIn"/>
 </p>
-```
-```{=html}
+
+### ⚡ Tech Stack
+
 <p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinkhan16&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github,vscode,postman"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohinkhan16&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
+<img src="https://img.shields.io/badge/JavaScript-FFD93D?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-4D96FF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-6BCB77?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-FF6B6B?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4D96FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-6BCB77?style=for-the-badge"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=mohinkhan16&theme=algolia&no-frame=true&row=1&column=6"/>`{=html}
-```{=html}
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&animation=fadeIn"/>
 </p>
-```
-```{=html}
+
+### 📊 GitHub Stats
+
 <p align="center">
-```
-`<a href="https://github.com/mohinkhan16">`{=html}`<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/mohinkhan16/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
-`<a href="https://cool-queijadas-6a4ab9.netlify.app/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>`{=html}`</a>`{=html}
-```{=html}
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohinkhan16&show_icons=true&theme=radical&hide_border=true&title_color=FFD93D&icon_color=FF6B6B&text_color=ffffff"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohinkhan16&theme=radical&hide_border=true&ring=FF6B6B&fire=FFD93D"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6C63FF,50:00C2FF,100:00E676"/>`{=html}
-```{=html}
+<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohinkhan16&theme=react-dark&hide_border=true&line=6BCB77&point=FFD93D"/>
 </p>
-```
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&animation=fadeIn"/>
+</p>
+
+### 🌐 Let's Connect
+
+<p align="center">
+<a href="https://github.com/mohinkhan16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohinkhan16/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://cool-queijadas-6a4ab9.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+💼 Open to <b>Internship</b> and <b>Full Stack MERN Developer</b> roles.<br/>
+⭐ Star a repo if something here helped you out!
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=140&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+</p>
