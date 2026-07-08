@@ -39,16 +39,19 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
 
 <table align="center">
   <tr>
-    <td width="33%" align="center">
-      <b>🔐 JWT Authentication System</b><br/>
+    <td width="33%" align="center" bgcolor="#FFF1F1">
+      <img src="https://img.shields.io/badge/🔐_JWT_AUTH-FF6B6B?style=for-the-badge&logoColor=white"/><br/><br/>
+      <b>JWT Authentication System</b><br/>
       <sub>Secure signup/login flow with token-based auth, protected routes, and session handling.</sub>
     </td>
-    <td width="33%" align="center">
-      <b>📅 Event Management System</b><br/>
+    <td width="33%" align="center" bgcolor="#FFFCE8">
+      <img src="https://img.shields.io/badge/📅_EVENT_MGMT-FFD93D?style=for-the-badge&logoColor=black"/><br/><br/>
+      <b>Event Management System</b><br/>
       <sub>Full CRUD app to create, manage, and track events end-to-end.</sub>
     </td>
-    <td width="33%" align="center">
-      <b>🧠 Quiz Application</b><br/>
+    <td width="33%" align="center" bgcolor="#F0FBF1">
+      <img src="https://img.shields.io/badge/🧠_QUIZ_APP-6BCB77?style=for-the-badge&logoColor=white"/><br/><br/>
+      <b>Quiz Application</b><br/>
       <sub>Interactive quiz app with dynamic scoring and question flow.</sub>
     </td>
   </tr>
