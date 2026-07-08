@@ -1,171 +1,106 @@
-# 🚀 Hi, I'm Mohin Khan
+<!-- ===================== MOHIN KHAN — GITHUB PROFILE README ===================== -->
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=900&color=00D9FF&lines=Node.js+Developer;JavaScript+Enthusiast;Backend+Developer;Always+Learning+New+Technologies;Open+to+Internships"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&text=Mohin%20Khan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20Building%20real%20things,%20one%20bug%20at%20a%20time&descAlignY=62&descSize=18"/>
 </p>
-
----
-
-# 💻 About Me
-
-👋 Hello! I'm **Mohin Khan** from **Gujarat, India**.
-
-I'm a **Backend Developer** who enjoys building secure, scalable, and user-friendly web applications using JavaScript and Node.js.
-
-🎓 Completed **PGDCA**
-
-💡 Passionate about Backend Development
-
-🌱 Currently improving my Node.js, Express.js, MongoDB, and API Development skills.
-
-🎯 Looking for Internship and Entry-Level Backend Developer opportunities.
-
----
-
-# ⚡ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
----
-
-# 🚀 Current Focus
-
-* 🔹 Backend Development
-* 🔹 REST API Development
-* 🔹 JWT Authentication
-* 🔹 CRUD Applications
-* 🔹 MongoDB Database Design
-* 🔹 Clean Code Practices
-* 🔹 Git & GitHub
-
----
-
-# 📂 Featured Projects
-
-### 🍽️ Bites Restaurant
-
-Responsive restaurant website built using Bootstrap.
-
----
-
-### 🌦 Weather Application
-
-Real-time weather application using Weather API.
-
----
-
-### 🎬 Movie Search App
-
-Movie search application using OMDb API.
-
----
-
-### 🛒 Grocery Store
-
-Modern grocery shopping interface with JavaScript.
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=console.log('Hello%2C+World+%F0%9F%91%8B');;Full+Stack+Developer+(MERN);Turning+coffee+%E2%98%95+into+code;Currently%3A+Debugging+life+and+JS;Open+to+Internship+%2F+Full-Time+Roles"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohinkhan16&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=mohinkhan16&theme=github-dark-blue&hide_border=true"/>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mohinkhan16&label=Profile+Views&color=FFD93D&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/mohinkhan16?style=for-the-badge&color=6BCB77"/>
+<img src="https://img.shields.io/badge/CGPA-8.15%20%7C%20Rank%202-4D96FF?style=for-the-badge"/>
 </p>
 
 ---
 
-# 📈 Most Used Languages
+### 🧭 Quick Facts
+
+```yaml
+name: Mohin Khan (Pathan Mohinkhan)
+role: Full Stack Development Student — PGDCA
+location: Ghogha, Gujarat, India 🇮🇳
+stack: MongoDB • Express.js • React.js • Node.js
+training: Red and White Skill Education
+currently_building: Movie search app with a retro-cinema UI 🎬
+portfolio: cool-queijadas-6a4ab9.netlify.app
+fun_fact: I once styled the same login page 5 different ways before saying "yeh sahi hai"
+```
+
+---
+
+### 🛠️ Featured Builds
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <b>🔐 JWT Authentication System</b><br/>
+      <sub>Secure signup/login flow with token-based auth, protected routes, and session handling.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>📅 Event Management System</b><br/>
+      <sub>Full CRUD app to create, manage, and track events end-to-end.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>🧠 Quiz Application</b><br/>
+      <sub>Interactive quiz app with dynamic scoring and question flow.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github,vscode,postman"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinkhan16&layout=compact&theme=github_dark&hide_border=true"/>
-
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-FFD93D?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-4D96FF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-6BCB77?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-FF6B6B?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4D96FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-6BCB77?style=for-the-badge"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+### 📊 GitHub Stats
 
 <p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohinkhan16&show_icons=true&theme=radical&hide_border=true&title_color=FFD93D&icon_color=FF6B6B&text_color=ffffff"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohinkhan16&theme=radical&hide_border=true&ring=FF6B6B&fire=FFD93D"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohinkhan16&theme=github-dark&hide_border=true"/>
-
+<p align="center">
+<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohinkhan16&theme=react-dark&hide_border=true&line=6BCB77&point=FFD93D"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+### 🌐 Let's Connect
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohinkhan16&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:mohinpathan2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohinkhan16/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://github.com/mohinkhan16">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://github.com/mohinkhan16/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/mohinkhan16/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<a href="https://cool-queijadas-6a4ab9.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
----
-
-# 💬 Developer Motto
-
-> **"Every line of code is an opportunity to learn something new."**
-
----
+<p align="center">
+💼 Open to <b>Internship</b> and <b>Full Stack MERN Developer</b> roles.<br/>
+⭐ Star a repo if something here helped you out!
+</p>
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=140&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
 </p>
