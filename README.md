@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&animation=fadeIn"/>
 </p>
 
 ### 🧭 Quick Facts
@@ -32,7 +32,7 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
 ```
 
 <p align="center">
-  <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&animation=fadeIn"/>
 </p>
 
 ### 🛠️ Featured Builds
@@ -55,7 +55,7 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
 </table>
 
 <p align="center">
-  <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&animation=fadeIn"/>
 </p>
 
 ### ⚡ Tech Stack
@@ -74,7 +74,7 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
 </p>
 
 <p align="center">
-  <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&animation=fadeIn"/>
 </p>
 
 ### 📊 GitHub Stats
@@ -89,7 +89,7 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
 </p>
 
 <p align="center">
-  <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&animation=fadeIn"/>
 </p>
 
 ### 🌐 Let's Connect
