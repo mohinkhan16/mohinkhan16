@@ -1,8 +1,6 @@
 <!-- ===================== MOHIN KHAN — GITHUB PROFILE README ===================== -->
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF&text=Mohin%20Khan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20Building%20real%20things,%20one%20bug%20at%20a%20time&descAlignY=62&descSize=18"/>
-</p>
+Mohin%20Khan
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohin+-+glad+you're+here!;;Full+Stack+Developer+(MERN);Turning+coffee+%E2%98%95+into+code;Currently%3A+Debugging+life+and+JS;Open+to+Internship+%2F+Full-Time+Roles"/>
