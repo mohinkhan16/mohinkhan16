@@ -114,6 +114,4 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
 ⭐ Star a repo if something here helped you out!
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=140&color=0:FF6B6B,35:FFD93D,70:6BCB77,100:4D96FF"/>
-</p>
+
