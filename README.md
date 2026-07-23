@@ -1,11 +1,11 @@
 <!-- ===================== MOHIN KHAN — GITHUB PROFILE README ===================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:6366F1,100:14B8A6&text=Mohin%20Khan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20Building%20real%20things,%20one%20bug%20at%20a%20time&descAlignY=62&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366F1,100:14B8A6&text=Mohin%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Building%20real%20things,%20one%20bug%20at%20a%20time&descAlignY=58&descSize=17"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=console.log('Hello%2C+Viewrs+%F0%9F%91%8B');;Full+Stack+Developer+(MERN);Turning+coffee+%E2%98%95+into+code;Currently%3A+Debugging+life+and+JS;Open+to+Internship+%2F+Full-Time+Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mohin+-+glad+you're+here!;console.log('Hello%2C+World+%F0%9F%91%8B');Full+Stack+Developer+(MERN);Turning+coffee+%E2%98%95+into+code;Currently%3A+Debugging+life+and+JS;Open+to+Internship+%2F+Full-Time+Roles"/>
 </p>
 
 <p align="center">
@@ -18,18 +18,37 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:6366F1,100:14B8A6&animation=fadeIn"/>
 </p>
 
-### 🧭 Quick Facts
+<!-- ===================== TERMINAL / LOG SECTION (unique replacement for boring "quick facts") ===================== -->
+
+### 📟 `~/mohin$ git log --oneline`
+
+```
+a3f1c9d  feat: shipped Quiz App with dynamic scoring engine
+c88e021  feat: built JWT auth system w/ protected routes
+7fa02b1  feat: Event Management System (full CRUD)
+5d1e340  fix: finally picked ONE login page design (5th time's the charm)
+1a9002c  chore: standardized resume, fixed broken portfolio link
+0000001  init: started the MERN journey
+```
 
 ```yaml
-name: Mohin Khan (Pathan Mohinkhan)
 role: Full Stack Development Student — PGDCA
 location: Ghogha, Gujarat, India 🇮🇳
 stack: MongoDB • Express.js • React.js • Node.js
 training: Red and White Skill Education
-currently_building: Movie search app with a retro-cinema UI 🎬
+status: shipping projects, hunting for an internship / full-time role
 portfolio: cool-queijadas-6a4ab9.netlify.app
-fun_fact: I once styled the same login page 5 different ways before saying "yeh sahi hai"
 ```
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:6366F1,100:14B8A6&animation=fadeIn"/>
+</p>
+
+### 🧠 How I think about code
+
+> Not every project needs to look "AI-generated." I'd rather ship something plain and functional that feels intentional than something drowning in gradients that feels like a template.
+
+That shows up everywhere — clean Bootstrap over glassmorphism, natural light-grey UI over neon dashboards, and a retro film-strip theme (not "dark mode #47") for a movie app, because the *idea* mattered more than the trend.
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:6366F1,100:14B8A6&animation=fadeIn"/>
