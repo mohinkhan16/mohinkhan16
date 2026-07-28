@@ -83,7 +83,6 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohinkhan16&show_icons=true&theme=radical&hide_border=true&title_color=14B8A6&icon_color=6366F1&text_color=ffffff"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohinkhan16&theme=radical&hide_border=true&ring=6366F1&fire=14B8A6"/>
 </p>
 
