@@ -44,11 +44,11 @@ fun_fact: I once styled the same login page 5 different ways before saying "yeh 
       <b>JWT Authentication System</b><br/>
       <sub>Secure signup/login flow with token-based auth, protected routes, and session handling.</sub>
     </td>
-    <td width="33%" align="center" bgcolor="#E9FBF7">
-      <img src="https://img.shields.io/badge/📅_EVENT_MGMT-14B8A6?style=for-the-badge&logoColor=white"/><br/><br/>
-      <b>Event Management System</b><br/>
-      <sub>Full CRUD app to create, manage, and track events end-to-end.</sub>
-    </td>
+  <td width="33%" align="center" bgcolor="#E9FBF7">
+  <img src="https://img.shields.io/badge/🍽️_FOOD_DISH-14B8A6?style=for-the-badge&logoColor=white"/><br/><br/>
+  <b>Food Dish — Node.js Backend</b><br/>
+  <sub>Express/MongoDB API with JWT auth, Cloudinary image uploads, and Nodemailer integration.</sub>
+</td>
     <td width="33%" align="center" bgcolor="#EEF0FF">
       <img src="https://img.shields.io/badge/🧠_QUIZ_APP-6366F1?style=for-the-badge&logoColor=white"/><br/><br/>
       <b>Quiz Application</b><br/>
