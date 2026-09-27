@@ -81,16 +81,18 @@ portfolio: cool-queijadas-6a4ab9.netlify.app
 
 <br/>
 
-### 📊 stats
+### 📊 highlights
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohinkhan16&show_icons=true&theme=default&hide_border=true&title_color=6366F1&icon_color=14B8A6"/>
-<img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mohinkhan16&hide_border=true&ring=6366F1&fire=14B8A6"/>
+<img src="https://img.shields.io/badge/Repos-Public-6366F1?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/mohinkhan16?style=flat-square&color=14B8A6&label=Followers"/>
+<img src="https://img.shields.io/badge/Focus-MERN%20Stack-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-14B8A6?style=flat-square"/>
 </p>
 
-<p align="center">
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohinkhan16&hide_border=true&line=6366F1&point=14B8A6"/>
-</p>
+<blockquote align="center">
+<sub>Live stats widgets (readme-stats / streak-stats) are skipped here — their shared Vercel service is frequently rate-limited and shows broken cards for many users, so this section sticks to badges that always render.</sub>
+</blockquote>
 
 <br/>
 
