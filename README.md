@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mohin+%F0%9F%91%8B;Full+Stack+Developer+%28MERN%29;Building+SmartTimetable+SaaS;Open+to+Internship+%2F+Full-Time+Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mohin+%F0%9F%91%8B;Full+Stack+Developer+%28MERN%29;Building+Hospital+Management+System;Open+to+Internship+%2F+Full-Time+Roles"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ role: Full Stack Development Student — PGDCA
 location: Ghogha, Gujarat, India
 stack: MongoDB, Express.js, React.js, Node.js
 training: Red and White Skill Education
-building: SmartTimetable — multi-tenant SaaS timetable generator
+building: Hospital Management System — MERN stack app
 portfolio: cool-queijadas-6a4ab9.netlify.app
 ```
 
@@ -66,8 +66,8 @@ portfolio: cool-queijadas-6a4ab9.netlify.app
 <td>Interactive quiz app with dynamic scoring and question flow.</td>
 </tr>
 <tr>
-<td width="25%" align="center" bgcolor="#E9FBF7">🗓️<br/><b>SmartTimetable</b></td>
-<td><i>In progress</i> — multi-tenant SaaS timetable generator (Next.js, Prisma, PostgreSQL).</td>
+<td width="25%" align="center" bgcolor="#E9FBF7">🏥<br/><b>Hospital Management</b></td>
+<td><i>In progress</i> — Hospital Management System built on the MERN stack.</td>
 </tr>
 </table>
 
@@ -90,8 +90,12 @@ portfolio: cool-queijadas-6a4ab9.netlify.app
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-14B8A6?style=flat-square"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohinkhan16&hide_border=true&ring=6366F1&fire=14B8A6"/>
+</p>
+
 <blockquote align="center">
-<sub>Live stats widgets (readme-stats / streak-stats) are skipped here — their shared Vercel service is frequently rate-limited and shows broken cards for many users, so this section sticks to badges that always render.</sub>
+<sub>readme-stats / activity-graph cards are skipped — their shared Vercel service is frequently rate-limited and shows broken cards for many users. Streak stays since it renders more reliably.</sub>
 </blockquote>
 
 <br/>
