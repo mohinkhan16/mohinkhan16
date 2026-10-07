@@ -91,7 +91,7 @@ portfolio: cool-queijadas-6a4ab9.netlify.app
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=mohinkhan16&background=F5F3FF&border=E5E7EB&stroke=6366F1&ring=6366F1&fire=14B8A6&currStreakNum=1E1B4B&sideNums=1E1B4B&currStreakLabel=6366F1&sideLabels=14B8A6&dates=64748B&hide_border=false"/>
+<img src="https://streak-stats.demolab.com/?user=mohinkhan16&background=F5F3FF&border=E5E7EB&stroke=6366F1&ring=6366F1&fire=14B8A6&currStreakNum=1E1B4B&sideNums=1E1B4B&currStreakLabel=6366F1&sideLabels=14B8A6&dates=64748B&hide_border=false&v=2"/>
 </p>
 
 <blockquote align="center">
