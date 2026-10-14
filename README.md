@@ -90,9 +90,9 @@ portfolio: cool-queijadas-6a4ab9.netlify.app
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-14B8A6?style=flat-square"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com/?user=mohinkhan16&background=F5F3FF&border=E5E7EB&stroke=6366F1&ring=6366F1&fire=14B8A6&currStreakNum=1E1B4B&sideNums=1E1B4B&currStreakLabel=6366F1&sideLabels=14B8A6&dates=64748B&hide_border=false&v=2"/>
-</p>
+</p> -->
 
 <blockquote align="center">
 <sub>readme-stats / activity-graph cards are skipped — their shared Vercel service is frequently rate-limited and shows broken cards for many users. Streak stays since it renders more reliably.</sub>
